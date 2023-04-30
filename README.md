@@ -1,2 +1,2 @@
-# Caleria
+# Galeria
 Compartiendo Recuerdos
